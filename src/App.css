@@ -1,0 +1,90 @@
+body{
+    background-color: #F1F0E8;
+}
+
+.h1 {
+    text-align: center;
+    font-family: "Baloo 2";
+    font-optical-sizing: auto;
+    margin: 90px 0 25px 0;
+}
+
+.badge{
+    background-color: rgb(234, 11, 55);
+    right:0%;
+    padding: 0.3rem;
+}
+
+.my-3 {
+    margin: 1rem 0;
+  }
+  
+  .card {
+    width: 20rem; 
+    height: 27rem; 
+    margin: 1rem auto; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin-bottom: 2rem;
+  }
+  
+  .card:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  }
+  
+  .card-img-top {
+    height: 12rem; 
+    object-fit: cover;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  .card-body {
+    text-align: left;
+    padding: 0.8rem;
+  }
+  
+  .card-title {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+  }
+  
+  .card-text {
+    font-size: 0.85rem;
+    color: #000000;
+    margin-bottom: 1rem;
+  }
+  
+  .text-body-secondary {
+    font-size: 0.75rem;
+    color: gray;
+  }
+  
+  .btn-dark {
+    background-color: #333;
+    color: white;
+    padding: 0.4rem 0.6rem;
+    font-size: 0.8rem;
+  }
+  
+  .btn-dark:hover {
+    background-color: #555;
+    color: white;
+  }
+  
+  /* Responsive design for smaller screens */
+  @media (max-width: 768px) {
+    .card {
+      width: 90%; 
+      height: auto; 
+    }
+  
+    .card-img-top {
+      height: 10rem; 
+    }
+  }
+  
+
+  

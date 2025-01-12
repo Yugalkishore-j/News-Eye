@@ -1,0 +1,227 @@
+{
+  "status": "ok",
+  "totalResults": 17,
+  "articles": [
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": "Alex Patrick",
+      "title": "Man found with 14 Mozambican girls in his taxi sentenced",
+      "description": "Moises Armando Mate pleaded guilty to unlawfully assisting the minors, aged between four and 16, enter the country on 6 December.",
+      "url": "https://www.news24.com/news24/southafrica/news/man-found-with-14-mozambican-girls-in-his-taxi-sentenced-20241229",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/7802/69d8e1b55dec41ff835b22c42c32eb2a.jpg",
+      "publishedAt": "2024-12-29T16:28:26",
+      "content": "Moises Armando Mate pleaded guilty to unlawfully assisting the minors, aged between four and 16, enter the country on 6 December."
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Musk causes uproar for backing Germany's far-right party ahead of key elections",
+      "description": "BERLIN (AP) — Tech entrepreneur Elon Musk caused uproar after backing Germany’s far-right party in a major newspaper ahead of key parliamentary elections in the Western European country, leading to the resignation of the paper’s opinion editor in protest.",
+      "url": "https://apnews.com/915cc6821cd48c3168a7895b1d1c1a35",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/566ebc5639334955884e6a3033644c42/3000.jpeg",
+      "publishedAt": "2024-12-29T13:46:08Z",
+      "content": "BERLIN (AP) — Tech entrepreneur Elon Musk caused uproar after backing Germany’s far-right party in a major newspaper ahead of key parliamentary elections in the Western European country, leading to t… [+2658 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Ewa Krukowska",
+      "title": "Poland Ready to Help Ukraine If Slovakia Cuts Off Power in Gas Spat",
+      "description": "Poland is prepared to step up electricity exports to Ukraine if Slovakia’s Prime Minister Robert Fico follows through on his threat to cut off back-up power supplies to the war-torn country, a senior official said on Sunday.",
+      "url": "https://www.bloomberg.com/news/articles/2024-12-29/poland-ready-to-help-ukraine-if-fico-cuts-off-power-in-gas-spat",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilsAb_f78BqY/v1/1200x800.jpg",
+      "publishedAt": "2024-12-29T13:45:46+00:00",
+      "content": "Poland is prepared to step up electricity exports to Ukraine if Slovakias Prime Minister Robert Fico follows through on his threat to cut off back-up power supplies to the war-torn country, a senior … [+286 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Curtis Bunn",
+      "title": "DEI programs saw a myriad of attacks this year, with more to come in 2025",
+      "description": "Diversity, equity and inclusion programs at some of the country’s biggest companies fell apart in 2024. Anti-DEI efforts will most likely only ramp up in 2025.",
+      "url": "https://www.nbcnews.com/news/nbcblk/anti-dei-program-effort-2025-states-companies-universities-trump-rcna184580",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241227-dei-workplace-business-government-education-cs-bd226f.png",
+      "publishedAt": "2024-12-29T12:00:00Z",
+      "content": "One by one, diversity, equity and inclusion programs at some of the countrys biggest companies fell apart in 2024, with signs that efforts to reverse DEI initiatives will only ramp up in 2025.\r\nThis … [+7034 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Cynthia Kim",
+      "title": "Air crash tests South Korea's acting president two days into the job",
+      "description": "When South Korea's acting President Choi Sang-mok arrived at the scene of the deadliest air disaster on the country's soil on Sunday, he had been on the job for less than 48 hours.",
+      "url": "https://www.reuters.com/world/asia-pacific/air-crash-tests-south-koreas-acting-president-two-days-into-job-2024-12-29/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/273IUBNCJBO4RKFODVLLHQCUE4.jpg?auth=e1cd2e5c3824054a93f6db7c39f387543b8bc43f5e38cff6f8ca2881db802c46&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-12-29T09:18:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Putin reaches 25 years in charge of Russia, but has he 'taken care' of country, asks Steve Rosenberg",
+      "description": "Over a quarter of a century in power we've seen many different Putins, says the BBC's Russia editor.",
+      "url": "https://www.bbc.co.uk/news/articles/cd0ek943v7ko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32e5/live/e04fd430-c523-11ef-aff0-072ce821b6ab.jpg",
+      "publishedAt": "2024-12-29T06:37:17.482412Z",
+      "content": "I often wonder whether the course of history would have been drastically different if Yeltsin had picked someone else to succeed him. The question, of course, is academic. History is full of ifs and … [+1504 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RTÉ News",
+      "title": "Netanyahu lobbied for Dublin embassy, State Papers show",
+      "description": "Israel lobbied strongly for the opening of an embassy in Dublin 34 years ago, with the charge being led by the young deputy foreign minister Benjamin Netanyahu now the country's Prime Minister, newly released government files show.",
+      "url": "https://www.rte.ie/news/2024/1229/1487242-state-papers-israeli-embassy/",
+      "urlToImage": "https://img.rasset.ie/00219666-1600.jpg",
+      "publishedAt": "2024-12-29T00:01:00Z",
+      "content": "By David McCullagh and Fiachra Ó Cionnaith \r\nThe Israeli embassy in Dublin was in the news before Christmas, with the announcement by the Israeli government that it is to be closed in protest at what… [+4502 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Filip Timotija",
+      "title": "Schatz: Democrats’ next nominee ‘has to talk like a normal person’",
+      "description": "Sen. Brian Schatz (D-Hawaii) said the Democratic Party’s next presidential nominee “has to talk like a normal person” to appeal to a large swath of voters across the country and have the best chance of winning in 2028.  “I think whomever we nominate has to ta…",
+      "url": "https://thehill.com/homenews/senate/5057465-brian-schatz-democratic-party/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/03/schatzbrian_032024ar01_w.jpg?w=1280",
+      "publishedAt": "2024-12-27T15:32:54Z",
+      "content": "Skip to content\r\nSen. Brian Schatz (D-Hawaii) said the Democratic Party’s next presidential nominee “has to talk like a normal person” to appeal to a large swath of voters across the country and have… [+2499 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "The nation’s cartoonists on the week in politics",
+      "description": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundred…",
+      "url": "https://www.politico.com/gallery/2024/12/27/the-nations-cartoonists-on-the-week-in-politics-00196052",
+      "urlToImage": "https://static.politico.com/bc/22/12474e5c4e8d808aa2404ad3f973/0-teaser.jpg",
+      "publishedAt": "2024-12-27T10:00:00+00:00",
+      "content": "Cartoon Carousel \r\nEvery week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-s… [+259 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "John Kehoe",
+      "title": "Australia economy: The lucky country has blown the boom",
+      "description": "Australian governments have frittered away much of the windfall from the mining boom, which may now be fading. And there is no plan to pay for spending locked in.",
+      "url": "http://www.afr.com/policy/economy/the-lucky-country-has-blown-the-20-year-boom-20241217-p5kywb",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.6874%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_348%2C$y_235/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_analysis_no_age_social_wm/6da2b8907db989bbf6e9dbd01aa365c0b67867c5",
+      "publishedAt": "2024-12-27T01:00:00Z",
+      "content": "Gift this article\r\nSubscribe to gift this article\r\nGift 5 articles to anyone you choose each month when you subscribe.\r\nSubscribe nowAlready a subscriber?Login\r\nThe story of Australia over the past t… [+255 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Jessica Sier",
+      "title": "SoftBank’s Paul Jones: From Australian golf pro to Japan deal maker and CEO of ThinkAR",
+      "description": "An injury led Paul Jones to the fairways of country Victoria and on to the upper echelons of Japan’s most intriguing technology investor at SoftBank.",
+      "url": "http://www.afr.com/world/asia/how-this-aussie-golf-pro-got-the-ear-of-billionaire-masayoshi-son-20241213-p5kya7",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.3422%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_114/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/614c06a18521e408f33958d2646c2a99af3978fd",
+      "publishedAt": "2024-12-26T18:00:00Z",
+      "content": "Gift this article\r\nSubscribe to gift this article\r\nGift 5 articles to anyone you choose each month when you subscribe.\r\nSubscribe nowAlready a subscriber?Login\r\nI might be allergic to sake, I inform … [+397 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": null,
+      "title": "STEM Training Offers Hope for Communities Across the Country | Opinion",
+      "description": "Jobs related to science, technology, engineering, and mathematics—STEM—are well paid and in demand, including in areas around the country that have suffered from de-industrialization.",
+      "url": "https://www.newsweek.com/stem-training-offers-hope-communities-across-country-opinion-2005366",
+      "urlToImage": "https://d.newsweek.com/en/full/2550543/student-chemistry-class.jpg",
+      "publishedAt": "2024-12-26T12:00:02Z",
+      "content": "The education policy of the incoming federal administration is still being formulated. While there will be many issues that we as unionized educators disagree with, there is at least one initiative t… [+4133 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "David Faris",
+      "title": "2025's Big Question: Can Republicans Govern? | Opinion",
+      "description": "The country has one political party that can govern but not consistently win elections, and another that can win elections but can't seem to govern.",
+      "url": "https://www.newsweek.com/2025s-big-question-can-republicans-govern-opinion-2005202",
+      "urlToImage": "https://d.newsweek.com/en/full/2521790/president-elect-donald-trump.jpg",
+      "publishedAt": "2024-12-24T00:35:42Z",
+      "content": "As the sun rises on 2025—at least in the parts of the country where there is January sunlight—America's basic predicament has become clearer. The country has one political party that can govern but n… [+6091 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "The nation’s cartoonists on the week in politics",
+      "description": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundred…",
+      "url": "https://www.politico.com/gallery/2024/12/20/the-nations-cartoonists-on-the-week-in-politics-00195449",
+      "urlToImage": "https://static.politico.com/5f/a5/3227ba3b434c8d13903646992934/0-teaser.jpg",
+      "publishedAt": "2024-12-20T10:00:00+00:00",
+      "content": "Cartoon Carousel \r\nEvery week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-s… [+261 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Alex Fitzpatrick, Kavya Beheraj",
+      "title": "The country's new business hot spots, mapped",
+      "description": "The Southeastern U.S. is a hotbed of new business activity.",
+      "url": "https://www.axios.com/2023/07/13/new-business-hot-spots",
+      "urlToImage": "https://images.axios.com/aDr8aF2q-EoHWlnE6VUNLPYxpRE=/0x0:1280x720/1366x768/2023/07/12/1689197791881.png",
+      "publishedAt": "2023-07-13T09:30:06Z",
+      "content": "The Southeastern U.S. is a hotbed of new business activity, home to nine of the top 10 major metro areas with the most new business applications per 1,000 residents last year.\r\nDriving the news: That… [+1716 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Ioanna Lykiardopoulou",
+      "title": "Rapid delivery giant Getir quits France, citing regulation hurdles",
+      "description": "Quick commerce platform Getir is bidding adieu to the French market — less than two years since starting its operations in the country.\r\n\r\nIn a press release sent to AFP, the company ...",
+      "url": "http://thenextweb.com/news/quick-delivery-giant-getir-quits-france",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-3-11.jpg&signature=01a135e05b853a78b83268994e4f2cbf",
+      "publishedAt": "2023-06-22T11:21:08Z",
+      "content": "Quick commerce platform Getir is bidding adieu to the French market less than two years since starting its operations in the country.\r\nIn a press release sent to AFP, the company said that it will so… [+1469 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Eamon Barrett",
+      "title": "A new report shows how badly the Trump administration slashed the U.S.’s climate credentials",
+      "description": "The ranking from Yale University says decisions made by the Trump administration slashed the country's climate credentials",
+      "url": "https://fortune.com/2022/06/01/trump-us-climate-action-paris-accord-methane-yale-environmental-performance-index/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/GettyImages-1342340441-e1654072113634.jpg?resize=1200,600",
+      "publishedAt": "2022-06-01T10:31:29Z",
+      "content": "Skip to Content"
+    }
+  ]
+}
