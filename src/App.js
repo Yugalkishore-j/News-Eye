@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import News from "./components/News";
 import { BrowserRouter as Router, Routes, Route } from "react-router";
 import LoadingBar from "react-top-loading-bar";
-import Footer from "./components/Footer";
+
 
 const App=()=>{
    const [progress, setProgress] = useState(0);
@@ -26,7 +26,6 @@ const App=()=>{
             </Routes>
           </div>
         </Router>
-        <Footer/>
       </>
     );
   } 
